@@ -1,0 +1,413 @@
+Blue Elemental Blast|{U}|1|Instant|37
+Crystal Rod|{1}|1|Artifact|4
+Darkpact|{B}{B}{B}|3|Sorcery|1
+Dingus Egg|{4}|4|Artifact|48
+Drain Power|{U}{U}|2|Sorcery|37
+Howl from Beyond|{X}{B}|1|Instant|21
+Illusionary Mask|{2}|2|Artifact|59
+Ivory Cup|{1}|1|Artifact|44
+Jade Monolith|{4}|4|Artifact|40
+Lifetap|{U}{U}|2|Enchantment|45
+Lightning Bolt|{R}|1|Instant|57
+Raise Dead|{B}|1|Sorcery|51
+Stream of Life|{X}{G}|1|Sorcery|49
+Time Vault|{2}|2|Artifact|57
+Piety|{2}{W}|3|Instant|25
+Blue Mana Battery|{4}|4|Artifact|17
+Nova Pentacle|{4}|4|Artifact|2
+Ring of Immortals|{5}|5|Artifact|38
+Seafarer's Quay|1|1|Land|48
+Shield Wall|{1}{W}|2|Instant|11
+Undertow|{2}{U}|3|Enchantment|56
+White Mana Battery|{4}|4|Artifact|4
+Sorrow's Path|1|1|Land|29
+Breeding Pit|{3}{B}|4|Enchantment|28
+Hymn to Tourach|{B}{B}|2|Sorcery|30
+Ring of Renewal|{5}|5|Artifact|43
+Arena|1|1|Land|25
+Valorous Stance|{1}{W}|2|Instant|60
+Call to Arms|{1}{W}|2|Enchantment|12
+Goblin Lyre|{3}|3|Artifact|41
+Hematite Talisman|{2}|2|Artifact|37
+Ice Floe|1|1|Land|4
+Icequake|{1}{B}{B}|3|Sorcery|35
+Nacre Talisman|{2}|2|Artifact|18
+Staff of the Ages|{3}|3|Artifact|7
+Time Bomb|{4}|4|Artifact|37
+Baki's Curse|{2}{U}{U}|4|Sorcery|6
+Didgeridoo|{1}|1|Artifact|27
+Drudge Spell|{B}{B}|2|Enchantment|9
+Dry Spell|{1}{B}|2|Sorcery|39
+Koskun Falls|{2}{B}{B}|4|World Enchantment|21
+Force of Will|{3}{U}{U}|5|Instant|59
+Inheritance|{W}|1|Enchantment|30
+Noble Steeds|{2}{W}|3|Enchantment|37
+Ritual of the Machine|{2}{B}{B}|4|Sorcery|20
+Storm Cauldron|{5}|5|Artifact|30
+Surging Flame|{1}{R}|2|Instant|20
+Amber Prison|{4}|4|Artifact|53
+Blind Fury|{2}{R}{R}|4|Instant|10
+Final Fortune|{R}{R}|2|Instant|10
+Prismatic Boon|{X}{W}{U}|2|Instant|57
+Superior Numbers|{G}{G}|2|Sorcery|47
+Juju Bubble|{1}|1|Artifact|22
+Three Wishes|{1}{U}{U}|3|Instant|43
+Vampiric Tutor|{B}|1|Instant|47
+Warrior's Honor|{2}{W}|3|Instant|50
+Blessed Reversal|{1}{W}|2|Instant|32
+Cruel Fate|{4}{U}|5|Sorcery|33
+Fruition|{G}|1|Sorcery|5
+Natural Spring|{3}{G}{G}|5|Sorcery|25
+Lyzolda, the Blood Witch Avatar|1|1|Vanguard|1
+Raksha Golden Cub Avatar|1|1|Vanguard|54
+Selenia|1|1|Vanguard|58
+Sisay|1|1|Vanguard|17
+Stalking Tiger Avatar|1|1|Vanguard|25
+Angelic Renewal|{1}{W}|2|Enchantment|1
+Desperate Gambit|{R}|1|Instant|22
+Fatal Blow|{B}|1|Instant|31
+Heat Stroke|{2}{R}|3|Enchantment|3
+Serenity|{1}{W}|2|Enchantment|57
+Lotus Bloom|1|1|Artifact|39
+Trail of Mystery|{1}{G}|2|Enchantment|24
+Rally the Ancestors|{X}{W}{W}|2|Instant|3
+Altar of Dementia|{2}|2|Artifact|11
+Gerrard's Battle Cry|{W}|1|Enchantment|21
+Helm of Possession|{4}|4|Artifact|6
+Kindle|{1}{R}|2|Instant|37
+Light of Day|{3}{W}|4|Enchantment|34
+Nature's Revolt|{3}{G}{G}|5|Enchantment|2
+Precognition|{4}{U}|5|Enchantment|48
+Propaganda|{2}{U}|3|Enchantment|49
+Reanimate|{B}|1|Sorcery|45
+Recycle|{4}{G}{G}|6|Enchantment|49
+Invasion Plans|{2}{R}|3|Enchantment|17
+Portcullis|{4}|4|Artifact|35
+Rebound|{1}{U}|2|Instant|58
+Scapegoat|{W}|1|Instant|37
+Harmony of Nature|{2}{G}|3|Sorcery|38
+Rally the Troops|{W}|1|Instant|21
+Equilibrium|{1}{U}{U}|3|Enchantment|56
+Mana Breach|{2}{U}|3|Enchantment|1
+Oath of Scholars|{3}{U}|4|Enchantment|42
+Flowstone Flood|{3}{R}|4|Sorcery|59
+Elven Palisade|{G}|1|Enchantment|43
+Skyshroud Forest|{1}{G}|2|Creature — Beast|41
+Growth Spurt|{1}{G}|2|Instant|35
+Squirrel Farm|{2}{G}|3|Enchantment|56
+Chaos Confetti|{4}|4|Artifact|41
+Giant Fan|{4}|4|Artifact|35
+Jack-in-the-Mox|{0}|0|Artifact|10
+Catalog|{2}{U}|3|Instant|46
+Hibernation|{2}{U}|3|Instant|24
+Telepathy|{U}|1|Enchantment|54
+Yawgmoth's Edict|{1}{B}|2|Enchantment|47
+Brand|{R}|1|Instant|60
+Hidden Ancients|{1}{G}|2|Enchantment|6
+Barrin's Codex|{4}|4|Artifact|47
+Noetic Scales|{4}|4|Artifact|9
+Purging Scythe|{5}|5|Artifact|9
+Hope and Glory|{1}{W}|2|Instant|43
+Planar Collapse|{1}{W}|2|Enchantment|1
+Aura Flux|{2}{U}|3|Enchantment|8
+Impending Disaster|{1}{R}|2|Enchantment|20
+Damping Engine|{4}|4|Artifact|52
+Control of the Court|{1}{R}|2|Sorcery|15
+Spoils of Victory|{2}{G}|3|Sorcery|5
+Scent of Brine|{1}{U}|2|Instant|36
+Flame Jet|{1}{R}|2|Sorcery|55
+Reckless Abandon|{R}|1|Sorcery|16
+Scrying Glass|{2}|2|Artifact|54
+Soothing Balm|{1}{W}|2|Instant|28
+Trade Routes|{1}{U}|2|Enchantment|47
+Cateran Summons|{B}|1|Sorcery|14
+Horn of Plenty|{6}|6|Artifact|34
+Hickory Woodlot|1|1|Land|17
+Terminate|{B}{R}|2|Instant|8
+Pillar of Flame|{R}|1|Sorcery|52
+Encroaching Wastes|1|1|Land|29
+Nissa's Pilgrimage|{2}{G}|3|Sorcery|56
+Sivvi's Valor|{2}{W}|3|Instant|53
+Seal of Removal|{U}|1|Enchantment|52
+Mind Slash|{1}{B}{B}|3|Enchantment|37
+Infernal Genesis|{4}{B}{B}|6|Enchantment|35
+Plague Wind|{7}{B}{B}|9|Sorcery|32
+Protective Sphere|{2}{W}|3|Enchantment|44
+Rout|{3}{W}{W}|5|Sorcery|11
+Samite Ministration|{1}{W}|2|Instant|3
+Crystal Spray|{2}{U}|3|Instant|44
+Desperate Research|{1}{B}|2|Sorcery|38
+Do or Die|{1}{B}|2|Sorcery|21
+Lightning Dart|{1}{R}|2|Instant|33
+Obliterate|{6}{R}{R}|8|Sorcery|12
+Restock|{3}{G}{G}|5|Sorcery|51
+Scouting Trek|{1}{G}|2|Sorcery|43
+Phyrexian Altar|{3}|3|Artifact|43
+Phyrexian Lens|{3}|3|Artifact|43
+Tigereye Cameo|{3}|3|Artifact|52
+March of Souls|{4}{W}|5|Sorcery|58
+Pollen Remedy|{W}|1|Instant|37
+Surprise Deployment|{3}{W}|4|Instant|33
+Shifting Sky|{2}{U}|3|Enchantment|38
+Death Bomb|{3}{B}|4|Instant|22
+Phyrexian Altar|{3}{B}|4|Creature — Zombie|21
+Planeswalker's Fury|{2}{R}|3|Enchantment|48
+Mortify|{1}{W}{B}|3|Instant|31
+Bituminous Blast|{3}{B}{R}|5|Instant|31
+Consume Strength|{1}{B}{G}|3|Instant|25
+Last Stand|{W}{U}{B}{R}{G}|5|Sorcery|13
+Caves of Koilos|1|1|Land|26
+Cease-Fire|{2}{W}|3|Instant|37
+Concentrate|{2}{U}{U}|4|Sorcery|29
+Dematerialize|{3}{U}|4|Sorcery|40
+Think Tank|{2}{U}|3|Enchantment|14
+Execute|{2}{B}|3|Instant|17
+Chance Encounter|{2}{R}{R}|4|Enchantment|40
+Rites of Initiation|{R}|1|Instant|15
+Shower of Coals|{3}{R}{R}|5|Sorcery|40
+Thermal Blast|{4}{R}|5|Instant|34
+Elephant Ambush|{2}{G}{G}|4|Instant|52
+Barbarian Ring|1|1|Land|45
+Skycloud Expanse|1|1|Land|45
+Transcendence|{3}{W}{W}{W}|6|Enchantment|53
+Churning Eddy|{3}{U}|4|Sorcery|20
+Flaming Gambit|{X}{R}|1|Instant|44
+Overmaster|{R}|1|Sorcery|43
+Prismatic Strands|{2}{W}|3|Instant|27
+Spirit Cairn|{2}{W}|3|Enchantment|21
+Swelter|{3}{R}|4|Sorcery|46
+Grizzly Fate|{3}{G}{G}|5|Sorcery|36
+Krosan Reclamation|{1}{G}|2|Instant|44
+Hunting Grounds|{G}{W}|2|Enchantment|41
+Chain of Silence|{1}{W}|2|Instant|36
+Circle of Solace|{3}{W}|4|Enchantment|26
+Inspirit|{2}{W}|3|Instant|47
+Unified Strike|{W}|1|Instant|34
+Cover of Darkness|{1}{B}|2|Enchantment|25
+Cruel Revival|{4}{B}|5|Instant|15
+Death Match|{3}{B}|4|Enchantment|56
+Head Games|{3}{B}{B}|5|Sorcery|60
+Brightstone Ritual|{R}|1|Instant|2
+Mana Echoes|{2}{R}{R}|4|Enchantment|12
+Secluded Steppe|1|1|Land|60
+Wipe Clean|{1}{W}|2|Instant|39
+Enrage|{X}{R}|1|Instant|46
+Spark Spray|{R}|1|Instant|47
+Sulfuric Vortex|{1}{R}{R}|3|Enchantment|48
+Break Asunder|{2}{G}{G}|4|Sorcery|31
+Forge Armor|{4}{R}|5|Instant|18
+Grab the Reins|{3}{R}|4|Instant|44
+Mass Hysteria|{R}|1|Enchantment|56
+Lifespark Spellbomb|{1}|1|Artifact|46
+Psychogenic Probe|{2}|2|Artifact|25
+Blinkmoth Well|1|1|Land|33
+Tree of Tales|1|1|Artifact Land|12
+Soulscour|{7}{W}{W}{W}|10|Sorcery|36
+Murderous Spoils|{5}{B}|6|Instant|19
+Spawning Pit|{2}|2|Artifact|12
+Spectral Shift|{1}{U}|2|Instant|46
+Rain of Rust|{3}{R}{R}|5|Instant|3
+Blasting Station|{3}|3|Artifact|51
+Door to Nothingness|{5}|5|Artifact|9
+Cut the Tethers|{2}{U}{U}|4|Sorcery|60
+Jade Idol|{4}|4|Artifact|33
+Rare-B-Gone|{2}{B}{R}|4|Sorcery|57
+Why|{1}{G}|2|Instant|25
+Minamo's Meddling|{2}{U}{U}|4|Instant|31
+Curtain of Light|{1}{W}|2|Instant|25
+Inner Fire|{3}{R}|4|Sorcery|30
+Dense Canopy|{1}{G}|2|Enchantment|57
+Sasaya's Essence|{1}{G}{G}|3|Legendary Enchantment|60
+Wine of Blood and Iron|{3}|3|Artifact|37
+Mikokoro, Center of the Sea|1|1|Legendary Land|33
+Last Gasp|{1}{B}|2|Instant|29
+Gather Courage|{G}|1|Instant|33
+Clutch of the Undercity|{1}{U}{U}{B}|4|Instant|16
+Rally the Righteous|{1}{R}{W}|3|Instant|25
+Bloodletter Quill|{3}|3|Artifact|49
+To Arms!|{1}{W}|2|Instant|33
+Train of Thought|{1}{U}|2|Sorcery|47
+Predatory Focus|{3}{G}{G}|5|Sorcery|48
+Conjurer's Ban|{W}{B}|2|Sorcery|12
+Leap of Flame|{U}{R}|2|Instant|36
+Steeling Stance|{1}{W}{W}|3|Instant|58
+Govern the Guildless|{5}{U}|6|Sorcery|43
+Overrun|{X}{W}{U}|2|Instant|15
+Bound|{3}{B}{G}|5|Instant|22
+Crime|{3}{W}{B}|5|Sorcery|31
+Rakdos Signet|{2}|2|Artifact|8
+Sun's Bounty|{1}{W}|2|Instant|1
+Bewilder|{2}{U}|3|Instant|36
+Demonic Collusion|{3}{B}{B}|5|Sorcery|53
+Sudden Spoiling|{1}{B}{B}|3|Instant|37
+Ignite Memories|{4}{R}|5|Sorcery|49
+Gemstone Caverns|1|1|Legendary Land|8
+Season's Beatings|{R}{R}{R}{R}|4|Sorcery|37
+Saltblast|{3}{W}{W}|5|Sorcery|19
+Pact of Negation|{0}|0|Instant|23
+Festering March|{3}{B}{B}|5|Sorcery|5
+Killing Wave|{X}{B}|1|Sorcery|26
+Needle Drop|{R}|1|Instant|1
+Rings of Brighthearth|{3}|3|Artifact|3
+Windbrisk Heights|1|1|Land|24
+Dictate of the Twin Gods|{3}{R}{R}|5|Enchantment|40
+Rivals' Duel|{3}{R}|4|Sorcery|25
+Rite of Consumption|{1}{B}|2|Sorcery|56
+Puncture Bolt|{1}{R}|2|Instant|12
+Toil to Renown|{1}{G}|2|Sorcery|25
+Dream Salvage|{U/B}|1|Instant|17
+Trip Noose|{2}|2|Artifact|11
+Sanity Grinding|{U}{U}{U}|3|Sorcery|51
+Crumbling Ashes|{1}{B}|2|Enchantment|2
+Flame Jab|{R}|1|Sorcery|17
+Rise of the Hobgoblins|{R/W}{R/W}|2|Enchantment|41
+Golem's Heart|{2}|2|Artifact|48
+Protomatter Powder|{2}{U}|3|Artifact|45
+Crucible of Fire|{3}{R}|4|Enchantment|43
+Clarion Ultimatum|{G}{G}{W}{W}{W}{U}{U}|7|Sorcery|15
+Grixis Charm|{U}{B}{R}|3|Instant|35
+Drag Down|{2}{B}|3|Instant|56
+Spore Burst|{3}{G}|4|Sorcery|22
+Armillary Sphere|{2}|2|Artifact|38
+Violent Outburst|{1}{R}{G}|3|Instant|58
+Disorient|{3}{U}|4|Instant|53
+Windstorm|{X}{G}|1|Instant|47
+Sadistic Sacrament|{B}{B}{B}|3|Sorcery|7
+Seismic Shudder|{1}{R}|2|Instant|11
+Expedition Map|{1}|1|Artifact|38
+Piranha Marsh|1|1|Land|3
+Turntimber Grove|1|1|Land|57
+Spell Contortion|{2}{U}|3|Instant|40
+Vapor Snag|{4}{U}|5|Enchantment — Aura|14
+Amulet of Vigor|{1}|1|Artifact|56
+Sejiri Steppe|1|1|Land|41
+Near-Death Experience|{2}{W}{W}{W}|5|Enchantment|3
+Lay Bare|{2}{U}{U}|4|Instant|18
+See Beyond|{1}{U}|2|Sorcery|28
+Training Grounds|{U}|1|Enchantment|34
+Consume the Meek|{3}{B}{B}|5|Instant|26
+Corpsehatch|{3}{B}{B}|5|Sorcery|37
+Essence Feed|{5}{B}|6|Sorcery|60
+Might of the Masses|{G}|1|Instant|11
+Behold the Power of Destruction|1|1|Scheme|52
+A Display of My Dark Power|1|1|Scheme|22
+Feed the Machine|1|1|Scheme|54
+Look Skyward and Despair|1|1|Scheme|46
+My Undead Horde Awakens|1|1|Ongoing Scheme|1
+Realms Befitting My Majesty|1|1|Scheme|29
+Which of You Burns Brightest?|1|1|Scheme|15
+Ajani's Mantra|{1}{W}|2|Enchantment|45
+Redirect|{U}{U}|2|Instant|51
+Shape Anew|{3}{U}|4|Sorcery|15
+Blunt the Assault|{3}{G}|4|Instant|8
+Withstand Death|{G}|1|Instant|22
+Horizon Spellbomb|{1}|1|Artifact|17
+Prototype Portal|{4}|4|Artifact|48
+Fuel for the Cause|{2}{U}{U}|4|Instant|53
+Whipflare|{1}{R}|2|Sorcery|33
+Gremlin Mine|{1}|1|Artifact|56
+Shrine of Piercing Vision|{2}|2|Artifact|20
+Phyrexia's Core|1|1|Land|23
+Crescendo of War|{3}{W}|4|Enchantment|6
+Tribute to the Wild|{1}{G}|2|Instant|12
+Guardians' Pledge|{1}{W}{W}|3|Instant|51
+Rebuke|{2}{W}|3|Instant|31
+Corpse Lunge|{2}{B}|3|Instant|30
+Unburial Rites|{4}{B}|5|Sorcery|48
+Travel Preparations|{1}{G}|2|Sorcery|34
+Cellar Door|{2}|2|Artifact|15
+Traveler's Amulet|{1}|1|Artifact|19
+Woodland Cemetery|1|1|Land|20
+Gravepurge|{2}{B}|3|Instant|28
+Undying Evil|{B}|1|Instant|16
+Blood Feud|{4}{R}{R}|6|Sorcery|32
+Wild Hunger|{2}{G}|3|Instant|10
+Death Wind|{X}{B}|1|Instant|12
+Grave Exchange|{4}{B}{B}|6|Sorcery|39
+Human Frailty|{B}|1|Instant|57
+Angel's Tomb|{3}|3|Artifact|25
+Cower in Fear|{1}{B}{B}|3|Instant|60
+Predatory Rampage|{3}{G}{G}|5|Sorcery|58
+Horncaller's Chant|{7}{G}|8|Sorcery|47
+Essence Backlash|{2}{U}{R}|4|Instant|25
+Jarad's Orders|{2}{B}{G}|4|Sorcery|45
+Chromatic Lantern|{3}|3|Artifact|41
+Rapid Hybridization|{U}|1|Instant|3
+Crackling Perimeter|{1}{R}|2|Enchantment|54
+Ooze Flux|{3}{G}|4|Enchantment|20
+Executioner's Swing|{W}{B}|2|Instant|10
+Arrows of Justice|{2}{R/W}|3|Instant|31
+Gruul Keyrune|{3}|3|Artifact|48
+Advent of the Wurm|{1}{G}{G}{W}|4|Instant|32
+Gruul War Chant|{2}{R}{G}|4|Enchantment|52
+Restore the Peace|{1}{W}{U}|3|Instant|33
+Angelic Accord|{3}{W}|4|Enchantment|4
+Dismiss into Dream|{6}{U}|7|Enchantment|8
+Dark Prophecy|{B}{B}{B}|3|Enchantment|44
+Burning Earth|{3}{R}|4|Enchantment|53
+Savage Summoning|{G}|1|Instant|11
+Dark Betrayal|{B}|1|Instant|7
+Read the Bones|{2}{B}|3|Sorcery|35
+Steam Augury|{2}{U}{R}|4|Instant|10
+Toxic Deluge|{2}{B}|3|Sorcery|8
+Sudden Demise|{X}{R}|1|Sorcery|28
+Lightning Volley|{3}{R}|4|Instant|8
+Ritual of the Returned|{3}{B}|4|Instant|45
+Unexpected Potential|1|1|Conspiracy|20
+Plea for Power|{3}{U}|4|Sorcery|27
+Polymorphist's Jest|{1}{U}{U}|3|Instant|21
+Endless Obedience|{4}{B}{B}|6|Sorcery|3
+Feral Incarnation|{8}{G}|9|Sorcery|52
+Hunter's Ambush|{2}{G}|3|Instant|16
+Gleam of Resistance|{1}{W}|2|Instant|37
+Kill Shot|{2}{W}|3|Instant|30
+Burn Away|{4}{R}|5|Instant|4
+Infernal Offering|{4}{B}|5|Sorcery|60
+Spoils of Blood|{B}|1|Instant|7
+Write into Being|{2}{U}|3|Sorcery|11
+Monastery Siege|{2}{U}|3|Enchantment|24
+Break Through the Line|{1}{R}|2|Enchantment|5
+Mob Rule|{4}{R}{R}|6|Sorcery|42
+Profound Journey|{5}{W}{W}|7|Sorcery|44
+Taigam's Strike|{3}{U}|4|Sorcery|8
+Lose Calm|{3}{R}|4|Sorcery|21
+Enshrouding Mist|{W}|1|Instant|13
+The Great Aurora|{6}{G}{G}{G}|9|Sorcery|35
+Coastal Discovery|{3}{U}|4|Sorcery|12
+Blighted Cataract|1|1|Land|52
+Blighted Steppe|1|1|Land|3
+Wretched Confluence|{3}{B}{B}|5|Instant|14
+Awaken the Sky Tyrant|{3}{R}|4|Enchantment|59
+Call the Gatewatch|{2}{W}|3|Sorcery|9
+Elemental Uprising|{1}{G}|2|Instant|19
+Zendikar Resurgent|{5}{G}{G}|7|Enchantment|47
+Mirrorpool|1|1|Land|21
+Declaration in Stone|{1}{W}|2|Sorcery|12
+Ethereal Guidance|{2}{W}|3|Sorcery|19
+Autumnal Gloom|{2}{G}|3|Enchantment|53
+Forsaken Sanctuary|1|1|Land|12
+Scour the Laboratory|{4}{U}{U}|6|Instant|50
+Prying Questions|{2}{B}|3|Sorcery|53
+Ruthless Disposal|{4}{B}|5|Sorcery|1
+Galvanic Bombardment|{R}|1|Instant|36
+Otherworldly Outburst|{R}|1|Instant|14
+Adriana's Valor|1|1|Conspiracy|51
+Garbage Fire|{2}{R}|3|Instant|43
+Tidy Conclusion|{3}{B}{B}|5|Instant|40
+Blossoming Defense|{G}|1|Instant|34
+Take Down|{G}|1|Sorcery|46
+Aetherflux Reservoir|{4}|4|Artifact|25
+Aetherworks Marvel|{4}|4|Legendary Artifact|23
+Ghirapur Orrery|{4}|4|Artifact|24
+Inspiring Vantage|1|1|Land|35
+Sylvan Reclamation|{3}{G}{W}|5|Instant|28
+Reverse Engineer|{3}{U}{U}|5|Sorcery|13
+Whir of Invention|{X}{U}{U}{U}|3|Instant|44
+Fatal Push|{B}|1|Instant|30
+Kari Zev's Expertise|{1}{R}{R}|3|Sorcery|40
+Implement of Malice|{2}|2|Artifact|40
+Universal Solvent|{1}|1|Artifact|14
+Gideon's Intervention|{2}{W}{W}|4|Enchantment|23
+Faith of the Devoted|{2}{B}|3|Enchantment|23
+Final Reward|{4}{B}|5|Instant|26
+Pursue Glory|{3}{R}|4|Instant|18
